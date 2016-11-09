@@ -1,0 +1,139 @@
+@import 'bootstrap';
+
+$green: #16a085;
+$grey: #5a6576;
+$other-grey: #e7ecee;
+$blue: #058cc5;
+$red: #d2527f;
+$ligth-blue: #3498DB;
+$teal: #009688;
+
+.bold{
+	font-weight: bold;
+}
+
+.teal{
+	background-color: $teal;
+}
+
+.teal-text{
+	color: $teal;
+}
+
+.white{
+	background-color: white;
+}
+
+.white-text{
+	color: white;
+}
+
+.green{
+	background-color : $green;
+}
+
+.green-text{
+	color: $green;
+}
+
+.grey{
+	background-color : $grey;
+}
+
+.grey-text{
+	color: $grey;
+}
+
+.other-grey{
+	background-color : $other-grey;
+}
+
+.other-grey-text{
+	color: $other-grey;
+}
+
+.blue{
+	background-color : $blue;
+}
+
+.blue-text{
+	color: $blue;
+}
+
+.red{
+	background-color : $red;
+}
+
+.red-text{
+	color: $red;
+}
+
+.ligth-blue{
+	background-color : $ligth-blue;
+}
+
+.ligth-blue-text{
+	color: $ligth-blue;
+}
+
+.big-padding{
+	padding: 2em;
+}
+
+.no-padding{
+	padding: 0;
+}
+
+.no-float{
+	float: none !important;
+}
+
+.inline-block{
+	float: none !important;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: -4px;
+}
+
+.center-block{
+	float: none
+}
+
+.small{
+	font-size: 12px;	
+}
+
+.normal{
+	font-size: 1.2em;
+}
+.medium{
+	font-size: 1.5em;
+}
+
+.big{
+	font-size: 3em;
+}
+
+.bigger{
+	font-size: 4em;
+}
+
+.ultra-big{
+	font-size: 7em;
+}
+
+.top-space{
+	margin-top: 1em;
+}
+
+.absolute{
+	position: absolute;
+}
+
+.bottom-space{
+	margin-bottom: 2em;
+}
+
+.large-padding{
+	padding: 5px 10px;
+}
